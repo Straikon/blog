@@ -4,4 +4,13 @@ git config user,email "mi email de git"
 git add .
 git commit -m " nombre " 
 git add remote origin link de la pagina de git
-git push -u origin master
+git push -u origin master 
+git clone "url del repositorio a clonar".git "aqui podemos poner un nombre nuevo a el clon"
+composer install
+cp .env.example .env
+php artisan key:generate
+composer require laravel/ui --dev
+php artisan ui vue --auth
+npm install
+npm run dev
+php artisan migrate
