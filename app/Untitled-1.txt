@@ -1,0 +1,7 @@
+git init 
+git config user.name "mi nombre"
+git config user,email "mi email de git" 
+git add .
+git commit -m " nombre " 
+git add remote origin link de la pagina de git
+git push -u origin master
